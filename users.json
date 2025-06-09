@@ -1,0 +1,9 @@
+[
+  {
+    "username": "admin",
+    "password": "$2a$12$hash...",
+    "role": "admin",
+    "tokenVersion": 0,
+    "isVerified": true
+  }
+]
